@@ -1,0 +1,34 @@
+.pcolor {
+  color: #179ef8;
+}
+.fontcolor {
+  color: rgb(112, 112, 112);
+}
+.psize {
+  font-size: 22px;
+}
+.isize {
+  font-size: 15px;
+}
+hr {
+  border-bottom: 3px solid #333;
+  margin-top: 6px;
+}
+ul {
+  margin: 0;
+  padding: 18px;
+  padding-top: 10px;
+}
+ul > li {
+  margin-bottom: 8px;
+}
+.bolts {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #179ef8;
+}
+* {
+  line-height: 1;
+}
