@@ -4,8 +4,14 @@
 .fontcolor {
   color: rgb(112, 112, 112);
 }
+.blackcolor {
+  color: rgb(0, 0, 0);
+}
 .psize {
   font-size: 22px;
+}
+.xsize {
+  font-size: 18px;
 }
 .isize {
   font-size: 15px;
