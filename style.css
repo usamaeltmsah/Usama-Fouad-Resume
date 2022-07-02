@@ -10,8 +10,14 @@
 .psize {
   font-size: 22px;
 }
+.fsize {
+  font-size: 20px;
+}
 .xsize {
   font-size: 18px;
+}
+.csize {
+  font-size: 16px;
 }
 .isize {
   font-size: 15px;
